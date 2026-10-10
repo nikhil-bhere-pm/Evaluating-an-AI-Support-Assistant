@@ -1,4 +1,5 @@
-# Evaluating an AI Support Assistant
+# Evaluating an AI Support Assistant:
+From Prompt Testing to a Repeatable Eval System
 
 An LLM evaluation project exploring how prompt engineering, golden datasets, and LLM-as-a-Judge can improve the reliability of an AI course support assistant.
 
