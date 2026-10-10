@@ -183,7 +183,7 @@ For this reason, I manually reviewed a sample of judge decisions. Future iterati
 ## Repository Structure
 
 ```text
-ai-support-assistant-evaluation/
+Evaluating-an-AI-Support-Assistant/
 ├── README.md
 ├── prompts/
 │   ├── prompt-v1.md
