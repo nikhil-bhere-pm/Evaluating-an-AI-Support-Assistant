@@ -1,0 +1,19 @@
+V1,
+,
+Metric,Result
+Correctness,86.36%
+Groundedness,86.36%
+Instruction Following,86.36%
+Overall Pass Rate,86.36%
+,
+Calculation: 19 passed out of 22 test cases = 86.36%.,
+,
+V2,
+,
+Metric,Result
+Correctness,100%
+Groundedness,100%
+Instruction Following,100%
+Overall Pass Rate,100%
+,
+Calculation: 22 passed out of 22 test cases = 100%.,
