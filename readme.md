@@ -44,10 +44,10 @@ sample of judge decisions.
 
 ## 5. Baseline — V1
 
-Correctness: [ 86.36%]%
-Groundedness: [ 86.36%]%
-Instruction Following: [ 86.36%]%
-Overall Pass Rate: [ 86.36%]%
+Correctness: 86.36%
+Groundedness: 86.36%
+Instruction Following: 86.36%
+Overall Pass Rate: 86.36%
 
 ## 6. Key Failure Pattern
 
